@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>BenchmarkDotNet_Demo.ImageBenchmarks-20261026-150832</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.15.8, Windows 11 (10.0.26300.9711)
+AMD Ryzen AI 9 HX PRO 370 w/ Radeon 890M 2.00GHz, 1 CPU, 24 logical and 12 physical cores
+.NET SDK 10.0.401
+  [Host]   : .NET 10.0.12 (10.0.12, 10.0.1226.42308), X64 RyuJIT x86-64-v4
+  ShortRun : .NET 10.0.12 (10.0.12, 10.0.1226.42308), X64 RyuJIT x86-64-v4
+</code></pre>
+<pre><code>Job=ShortRun  IterationCount=3  LaunchCount=1  
+WarmupCount=3  
+</code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>Size</th><th>Mean     </th><th>Error    </th><th>StdDev </th><th>Ratio</th><th>RatioSD</th><th>Allocated</th><th>Alloc Ratio</th>
+</tr>
+</thead><tbody><tr><td>RowsFirst</td><td>32</td><td>642.8 ns</td><td>4.04 ns</td><td>0.22 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>NA</td>
+</tr><tr><td>ColumnsFirst</td><td>32</td><td>646.1 ns</td><td>41.85 ns</td><td>2.29 ns</td><td>1.01</td><td>0.00</td><td>-</td><td>NA</td>
+</tr><tr><td>RowsFirst</td><td>512</td><td>137,389.3 ns</td><td>6,598.75 ns</td><td>361.70 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>NA</td>
+</tr><tr><td>ColumnsFirst</td><td>512</td><td>212,861.8 ns</td><td>27,069.68 ns</td><td>1,483.78 ns</td><td>1.55</td><td>0.01</td><td>-</td><td>NA</td>
+</tr><tr><td>RowsFirst</td><td>4096</td><td>10,981,517.2 ns</td><td>2,655,514.99 ns</td><td>145,557.74 ns</td><td>1.00</td><td>0.02</td><td>-</td><td>NA</td>
+</tr><tr><td>ColumnsFirst</td><td>4096</td><td>74,906,538.1 ns</td><td>8,865,224.06 ns</td><td>485,932.85 ns</td><td>6.82</td><td>0.09</td><td>-</td><td>NA</td>
+</tr></tbody></table>
+</body>
+</html>

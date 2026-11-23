@@ -1,0 +1,13 @@
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.sourcelink.json
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\Floating.5D412D17.Up2Date

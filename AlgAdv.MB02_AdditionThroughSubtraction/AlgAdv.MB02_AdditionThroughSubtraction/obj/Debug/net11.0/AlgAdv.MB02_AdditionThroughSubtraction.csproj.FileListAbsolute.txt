@@ -1,0 +1,17 @@
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\bin\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.exe
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\bin\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.deps.json
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\bin\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.runtimeconfig.json
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\bin\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.runtimeconfig.dev.json
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\bin\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\bin\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.pdb
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.AssemblyInfoInputs.cache
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.AssemblyInfo.cs
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.sourcelink.json
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\refint\AlgAdv.MB02_AdditionThroughSubtraction.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.pdb
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.MB02_AdditionThroughSubtraction.genruntimeconfig.cache
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\ref\AlgAdv.MB02_AdditionThroughSubtraction.dll
+C:\Users\nbitt\Nextcloud\ZbW\Repos\ZbW.AlgAdv\AlgAdv.MB02_AdditionThroughSubtraction\AlgAdv.MB02_AdditionThroughSubtraction\obj\Debug\net11.0\AlgAdv.M.59AE7F39.Up2Date
